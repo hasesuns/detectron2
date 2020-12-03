@@ -3,5 +3,6 @@ requires = [
     "setuptools", 
     "wheel", 
     "torch=1.6.0",
+    "pyyaml>=5.1",
 ]
 build-backend = 'setuptools.build_meta'
